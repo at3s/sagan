@@ -192,7 +192,7 @@ Installation from source distributions files.
 
 Basic steps::
 
-    git clone https://github.com/beave/sagan
+    git clone https://github.com/quadrantsec/sagan.git
     cd sagan
     ./autogen.sh
     ./configure
